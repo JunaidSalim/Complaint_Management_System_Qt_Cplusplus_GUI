@@ -8,7 +8,7 @@
 **Hamza Faraz - 2022661**<br>
 
 **Introduction**<br>
-The Application Management System (AMS) developed by our team is a GUI-based application designed to facilitate efficient communication between students and teachers. It consists of two interfaces—a student login and a teacher login—providing specific functionalities tailored to their respective roles.
+The Complaint Management System (CMS) developed by our team is a GUI-based application designed to facilitate efficient communication between students and teachers. It consists of two interfaces—a student login and a teacher login—providing specific functionalities tailored to their respective roles.
 
 **Functionality Overview**<br>
 ⦁	Application Creation: Students can create applications within the system, which are then sent to the teacher for review.<br>
@@ -40,7 +40,8 @@ The Application Management System developed by our team presents a comprehensive
 
 Note: The application's success is attributed to the collective effort and collaboration of all team members—Taimoor, Junaid, Hamza, and Muneeb—who contributed their expertise to develop a robust and user-friendly system.<br>
 
-![s4](https://github.com/JunaidSalim/Complaint_Management_System_Qt_Cplusplus_GUI/assets/115392538/4452d409-0083-4fa9-8d19-3b7bc64555c4)
-![s3](https://github.com/JunaidSalim/Complaint_Management_System_Qt_Cplusplus_GUI/assets/115392538/da815bf8-1cc6-4a9a-861a-44bb09545e79)
-![s2](https://github.com/JunaidSalim/Complaint_Management_System_Qt_Cplusplus_GUI/assets/115392538/cd0f0f4e-1a22-4eff-9422-e39d3d64b50b)
-![s1](https://github.com/JunaidSalim/Complaint_Management_System_Qt_Cplusplus_GUI/assets/115392538/e3bcf496-84e7-4419-9cb3-7e780625c718)
+![s1](https://github.com/JunaidSalim/Complaint_Management_System_Qt_Cplusplus_GUI/assets/115392538/41923a99-ac93-4d81-8332-374f5aa521e7)
+![s2](https://github.com/JunaidSalim/Complaint_Management_System_Qt_Cplusplus_GUI/assets/115392538/a4e4f1e7-6af8-477a-a776-e956820502de)
+![s3](https://github.com/JunaidSalim/Complaint_Management_System_Qt_Cplusplus_GUI/assets/115392538/84eb3474-faa7-40dd-821b-f578acbd747d)
+![s4](https://github.com/JunaidSalim/Complaint_Management_System_Qt_Cplusplus_GUI/assets/115392538/2dd7172e-04ab-428c-8d3f-1fbc4c5339e3)
+

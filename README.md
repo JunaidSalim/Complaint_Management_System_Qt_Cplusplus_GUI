@@ -1,11 +1,11 @@
 **Application Management System made in Qt C++ GUI**<br>
 
-**Instructor: Mr. Usama Arshad Janjua**
+This system is developed by:
 
-**Junaid Saleem –2022243** <br>
-**Muhammad Taimoor – 2022680** <br>
-**Muneeb Bin Nasir – 2022463**<br>
-**Hamza Faraz - 2022661**<br>
+**Junaid Saleem** <br>
+**Muhammad Taimoor** <br>
+**Muneeb Bin Nasir**<br>
+**Hamza Faraz**<br>
 
 **Introduction**<br>
 The Complaint Management System (CMS) developed by our team is a GUI-based application designed to facilitate efficient communication between students and teachers. It consists of two interfaces—a student login and a teacher login—providing specific functionalities tailored to their respective roles.
